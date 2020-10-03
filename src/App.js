@@ -1,7 +1,9 @@
-import React, { Component, useEffect, useState } from 'react';
+import React, { Component } from 'react';
 import './App.css';
-import Contact from './Components/Contact';
+//import Contact from './Components/Contact';
 import axios from 'axios'
+
+
 
 class Contact extends Component {
     constructor(props) {
